@@ -1,4 +1,4 @@
-# vue3-task-provide
+# vue3-task
 
 ## Project setup
 ```
